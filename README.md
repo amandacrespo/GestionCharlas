@@ -12,7 +12,7 @@ Este proyecto fue desarrollado en equipo para gestionar charlas académicas. La 
 El sistema maneja tres tipos de perfiles con diferentes niveles de acceso:
 
 1. **Alumno**: Puede explorar las charlas disponibles y proponer sus propias charlas dentro de las rondas creadas por el profesor. También participa en la votación para decidir qué compañeros expondrán.
-3. **Profesor**: Puede crear y gestionar rondas de charlas, establecer criterios de evaluación y hacer un seguimiento del progreso de sus alumnos. Además, revisa las votaciones y selecciona las charlas mejor valoradas para su presentación.  
+3. **Profesor**: Puede crear y gestionar rondas de charlas, y hacer un seguimiento del progreso de sus alumnos. Además, revisa las votaciones y selecciona las charlas mejor valoradas para su presentación.  
 4. **Administrador**: Posee control total sobre la gestión de usuarios. 
 
 ## Capturas de Pantalla
