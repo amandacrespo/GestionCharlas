@@ -16,9 +16,9 @@ El sistema maneja tres tipos de perfiles con diferentes niveles de acceso:
 3. **Administrador**: Tiene control total sobre la gestión de usuarios.
 
 ## Capturas de Pantalla
-![Vista principal](ruta/a/la/imagen1.png)
+![Formulario acceso](charlas_img1.jpg)
 
-![Gestión de rondas](ruta/a/la/imagen2.png)
+![Vista principal](charlas_img2.jpg)
 
 ## Contribuidores
 Este proyecto ha sido desarrollado en equipo por:
