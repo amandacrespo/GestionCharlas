@@ -22,9 +22,9 @@ El sistema maneja tres tipos de perfiles con diferentes niveles de acceso:
 
 ## Contribuidores
 Este proyecto ha sido desarrollado en equipo por:
-- [Mario Jiménez Marset]([https://github.com/marsett])
-- [Bárbara Jiménez Aguilar]([https://github.com/barjimen])
-- [Sofía Martínez González]([https://github.com/SofiaMartinez23])
+- [Mario Jiménez Marset](https://github.com/marsett)  
+- [Bárbara Jiménez Aguilar](https://github.com/barjimen)  
+- [Sofía Martínez González](https://github.com/SofiaMartinez23)  
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
