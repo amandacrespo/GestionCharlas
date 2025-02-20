@@ -1,6 +1,6 @@
 # Gestor de Charlas
 
-Este es un proyecto desarrollado en equipo para la gestión de charlas académicas. La aplicación permite a diferentes tipos de usuarios administrar y visualizar charlas de manera eficiente.
+Este proyecto fue desarrollado en equipo para gestionar charlas académicas. La aplicación permite a distintos tipos de usuarios administrar y visualizar charlas de forma eficiente.
 
 ## Tecnologías Utilizadas
 - **Vue.js**: Framework principal para el desarrollo de la interfaz.
@@ -11,9 +11,9 @@ Este es un proyecto desarrollado en equipo para la gestión de charlas académic
 ## Perfiles de Usuario
 El sistema maneja tres tipos de perfiles con diferentes niveles de acceso:
 
-1. **Alumno**: Puede ver las charlas disponibles, subir las suyas a las rondas creadas por el profesor y votar a sus compañeros para decidir quién expone.
-2. **Profesor**: Puede crear y gestionar sus propias rondas, hacer un seguimiento de sus alumnos actuales y aceptar las charlas más votadas.
-3. **Administrador**: Tiene control total sobre la gestión de usuarios.
+1. **Alumno**: Puede explorar las charlas disponibles y proponer sus propias charlas dentro de las rondas creadas por el profesor. También participa en la votación para decidir qué compañeros expondrán.
+3. **Profesor**: Puede crear y gestionar rondas de charlas, establecer criterios de evaluación y hacer un seguimiento del progreso de sus alumnos. Además, revisa las votaciones y selecciona las charlas mejor valoradas para su presentación.  
+4. **Administrador**: Posee control total sobre la gestión de usuarios. 
 
 ## Capturas de Pantalla
 ![Formulario acceso](charlas_img1.jpg)
@@ -22,10 +22,9 @@ El sistema maneja tres tipos de perfiles con diferentes niveles de acceso:
 
 ## Contribuidores
 Este proyecto ha sido desarrollado en equipo por:
-- [Nombre 1](https://github.com/usuario1)
-- [Nombre 2](https://github.com/usuario2)
-- [Nombre 3](https://github.com/usuario3)
+- [Mario Jiménez Marset]([https://github.com/marsett])
+- [Bárbara Jiménez Aguilar]([https://github.com/barjimen])
+- [Sofía Martínez González]([https://github.com/SofiaMartinez23])
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
-
