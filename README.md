@@ -20,6 +20,10 @@ El sistema maneja tres tipos de perfiles con diferentes niveles de acceso:
 
 ![Vista principal](charlas_img2.jpg)
 
+![Vista de charlas](charlas_img3.png)
+
+![Vista detalles de una charla](charlas_img4.png)
+
 ## Contribuidores
 Este proyecto ha sido desarrollado en equipo por:
 - [Mario Jiménez Marset](https://github.com/marsett)  
